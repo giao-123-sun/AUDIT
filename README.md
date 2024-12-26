@@ -31,6 +31,7 @@ Predict whether a narrated story is **true** or **deceptive** based on 3-5 minut
 
 ## **Future Work**
 - The code will be released soon!
+- The well trained model will be released after 2024!
 
 ## **Acknowledgements**
 Developed as part of the CBU5201 mini-project.
